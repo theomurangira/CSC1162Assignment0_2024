@@ -1,0 +1,18 @@
+You have started your job as 
+a Software developer with annual salary 
+of  RWF 9,600,000. You decide to
+set up a saving account on which
+you deposit 15% of you monthly salary and 
+the saving account has a ( compound) 
+interest rate of  6%  per year.
+You want to request a bank loan to buy 
+a RWF 80000000 house. You are not going 
+to get the full amount to buy the house,
+ rather you are going to request a loan 
+ from your bank. However , the bank is 
+ going to give you the loan only if you
+ have at least 25% of the total price of
+  the house in savings. Write a python 
+  program that detrmines how many months 
+  it will take to get the nedded 25% on 
+  your saving account.
